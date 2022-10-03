@@ -10,15 +10,7 @@ learn a lot during these 7 days and it was an amazing experience learning with D
 
 <br><br>Here's the link for you to watch the sessions as well<br>
 
-<a
-
-href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"
-
-> <img
-
-src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/machine%20l
-
-earning.png"> </a>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/machine%20learning.png"> </a>
 
 <br>I got to have hands on experience on:
 
@@ -57,3 +49,4 @@ be</a>
 <li><a href=
 
 "https://github.com/shapeai">GitHub</a>
+
